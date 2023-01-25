@@ -7,7 +7,7 @@ const Name = styled.header`
   padding-left: 30rem;
 `;
 const Header = () => {
-  return <Name>Fakestore !</Name>;
+  return <Name>Fakestore !!</Name>;
 };
 
 export default Header;
